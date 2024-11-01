@@ -45,7 +45,6 @@ section {
 }
 
 @media only screen and (max-width: 1000px) {
-  /* font-size kecil pada semua font*/
   html,
   body {
     font-size: 70%;
