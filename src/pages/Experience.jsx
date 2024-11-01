@@ -7,6 +7,7 @@ import { FaLaravel } from "react-icons/fa";
 import Navbar from "./components/Navbar";
 import Footer from "./components/Footer";
 import ScrollToTop from "./components/ScrollToTop";
+import { HiMiniBuildingOffice } from "react-icons/hi2";
 
 function Experience() {
   return (
@@ -17,13 +18,15 @@ function Experience() {
         <VerticalTimeline>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2024 - Present"
+            date="November 2024 - Present"
             iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
             icon={<FaLaravel />}
           >
-            <h3 className="vertical-timeline-element-title">Art Director</h3>
+            <h3 className="vertical-timeline-element-title">
+              Programmer IT Developer (Internship)
+            </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              San Francisco, CA
+              FYP Media <HiMiniBuildingOffice />
             </h4>
             <p>
               Creative Direction, User Experience, Visual Design, SEO, Online
@@ -32,13 +35,15 @@ function Experience() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2023 - 2024"
+            date="July 2024 - November 2024"
             iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
             icon={<FaLaravel />}
           >
-            <h3 className="vertical-timeline-element-title">Art Director</h3>
+            <h3 className="vertical-timeline-element-title">
+              IT Full Stack (Internship)
+            </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              San Francisco, CA
+              Soko Financial <HiMiniBuildingOffice />
             </h4>
             <p>
               Creative Direction, User Experience, Visual Design, SEO, Online
@@ -47,13 +52,15 @@ function Experience() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2024 - Present"
+            date="February 2024 - June 2024 "
             iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
             icon={<FaLaravel />}
           >
-            <h3 className="vertical-timeline-element-title">Art Director</h3>
+            <h3 className="vertical-timeline-element-title">
+              Program Studi Independen Bersertifikat (SIB) Kampus Merdeka
+            </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              San Francisco, CA
+              PT Educa Sisfomedia Indonesia (Gamelab) <HiMiniBuildingOffice />
             </h4>
             <p>
               Creative Direction, User Experience, Visual Design, SEO, Online
@@ -62,13 +69,15 @@ function Experience() {
           </VerticalTimelineElement>
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
-            date="2024 - Present"
+            date="March 2019 - June 2019"
             iconStyle={{ background: "rgb(33, 150, 243)", color: "#fff" }}
             icon={<FaLaravel />}
           >
-            <h3 className="vertical-timeline-element-title">Art Director</h3>
+            <h3 className="vertical-timeline-element-title">
+              IT Staff (Internship)
+            </h3>
             <h4 className="vertical-timeline-element-subtitle">
-              San Francisco, CA
+              PT LUA Kreatif Teknologi <HiMiniBuildingOffice />
             </h4>
             <p>
               Creative Direction, User Experience, Visual Design, SEO, Online

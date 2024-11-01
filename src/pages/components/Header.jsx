@@ -1,4 +1,4 @@
-import profilePicture from "../../assets/profile-picture.png";
+import profilePicture from "../../assets/profile-picture.jpg";
 import "../../style/Header.css";
 import { FaInstagram } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
@@ -12,7 +12,7 @@ function Header() {
         <h3>Moch Falih Fauzan</h3>
         <p>Web Developer</p>
         <p>Programmer</p>
-        <p>Digital Marketer</p>
+        <p>Fullstack Developer</p>
         <div className="socialMedia">
           <a href="https://www.instagram.com/falihfauzan_/" target="_blank">
             <FaInstagram />

@@ -43,15 +43,15 @@ nav > .wrapper > button {
   cursor: pointer;
   display: none;
   position: absolute;
-  right: 10px;
-  top: 10px;
+  right: 20px;
+  top: 20px;
   border: 0px;
   background-color: transparent;
   padding: 0px;
 }
 nav > .wrapper > button > svg {
   color: #fff;
-  font-size: 50px;
+  font-size: 30px;
 }
 @media only screen and (max-width: 1000px) {
   .menu > ul {
@@ -71,7 +71,7 @@ nav > .wrapper > button > svg {
     background-color: #000;
     width: 100%;
     position: fixed;
-    top: 70px;
+    top: 60px;
     left: 0;
   }
   .menu > ul > li {
