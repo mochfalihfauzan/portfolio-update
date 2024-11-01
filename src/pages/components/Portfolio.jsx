@@ -1,4 +1,4 @@
-import "../../style/portfolio.css";
+import "../../style/Portfolio.css";
 import { portfolioList } from "../../data/DataPortfolio";
 import { Link } from "react-router-dom";
 
