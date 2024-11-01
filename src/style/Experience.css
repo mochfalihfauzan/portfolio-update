@@ -1,6 +1,10 @@
 @media only screen and (max-width: 1000px) {
   .wrapper,
   .timeline-experience {
-    font-size: 120%;
+    font-size: 150%;
+  }
+  .wrapper,
+  .timeline-experience p {
+    font-size: 100%;
   }
 }
